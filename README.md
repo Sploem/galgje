@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|i|.|e|.|.|a|.|t|
+|m|i|.|e|.|.|a|.|t|
 |-|-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|9|
 
@@ -23,3 +23,4 @@ resp6 = goedzo
 req = k
 resp7 = nope
 req8 = m
+resp9 = inderdaad
