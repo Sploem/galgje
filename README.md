@@ -20,3 +20,4 @@ req4 = t
 resp4 = goedzo
 req5 = i
 resp6 = goedzo
+req = k
