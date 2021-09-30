@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|e|.|a|.|.|.|
+|.|.|.|e|.|.|a|.|t|
 |-|-|-|-|-|-|-|-|-|
 |1|2|3|4|5|6|7|8|9|
 
@@ -17,3 +17,4 @@ resp2 = goedzo
 req3 = a
 resp3 = goedzo
 req4 = t
+resp4 = goedzo
