@@ -11,7 +11,7 @@
 
 ## Beurten
 req1 = p
-resp1 =  nee kut
+resp1 =  nee niet goed
 req2 = e
 resp2 = goedzo
 req3 = a
